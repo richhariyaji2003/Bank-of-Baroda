@@ -38,10 +38,3 @@ BOB- Saarthi is a real-time finance assistant application that incorporates faci
     ```bash
     flask run
     ```
-
-## Usage
-1. Open your browser and navigate to `http://localhost:5000`.
-2. Interact with BOB Saarthi by typing your messages in the chat box and observing the responses tailored to your detected emotions.
-3. Ensure your camera is enabled to allow real-time emotion detection.
-
-## Project Structure
